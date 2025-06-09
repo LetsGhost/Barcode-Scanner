@@ -4,6 +4,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/barcode-scanner-website/',
+  base: '/Barcode-Scanner/',
   plugins: [vue()],
 })
